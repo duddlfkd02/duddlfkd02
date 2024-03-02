@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/html-333333.svg?style=for-the-badge&logo=html&logoColor=E34F26" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hayoung=anuraghazra&layout=compact)
 <!--
 **duddlfkd02/duddlfkd02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
