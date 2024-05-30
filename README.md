@@ -1,4 +1,16 @@
+<h1 align="center">Hi 👋, I'm hayoung</h1>
+<h3 align="center">A publisher full of greed and passion</h3>
 
+- 🌱 I’m currently learning **javascript, uiux, html, css**
+
+- 👨‍💻 All of my projects are available at [https://duddlfkd02.github.io/hayoung-project/](https://duddlfkd02.github.io/hayoung-project/)
+
+- 📫 How to reach me **duddlfkd02@naver.com**
+<div align="center">
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=duddlfkd02&show_icons=true&locale=en&layout=compact" alt="duddlfkd02" />
+    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=duddlfkd02&show_icons=true&locale=en" alt="duddlfkd02" />
+  </p>
+</div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
   <div align="center">
