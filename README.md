@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm hayoung</h1>
-<h3 align="center">A publisher full of greed and passion</h3>
+<h3 align="center">A Front-end Developer full of greed and passion</h3>
 
-- 🌱 I’m currently learning **javascript, uiux, html, css**
+- 🌱 I’m currently learning **javascript, React and more things...**
 
-- 👨‍💻 All of my projects are available at [https://duddlfkd02.github.io/hayoung-project/](https://duddlfkd02.github.io/hayoung-project/)
+- 👨‍💻 You can show my First publisher project available at [https://duddlfkd02.github.io/hayoung-project/](https://duddlfkd02.github.io/hayoung-project/)
 
 - 📫 How to reach me **duddlfkd02@naver.com**
 <div align="center">
@@ -18,11 +18,13 @@
     <img src="https://img.shields.io/badge/css-f9f9f9.svg?style=for-the-badge&logo=css3&logoColor=3791F7" />
     <img src="https://img.shields.io/badge/javascript-f9f9f9.svg?style=for-the-badge&logo=javascript&logoColor=FFD721" />
     <img src="https://img.shields.io/badge/jquery-f9f9f9.svg?style=for-the-badge&logo=jquery&logoColor=2861B9" />
+    <img src="https://img.shields.io/badge/react-f9f9f9.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-f9f9f9.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/adobe%20illustrator-f9f9f9.svg?style=for-the-badge&logo=adobeillustrator&logoColor=#FF9A00" />&nbsp
+  <img src="https://img.shields.io/badge/adobe%20illustrator-f9f9f9.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />&nbsp
+  <img src="https://img.shields.io/badge/figma-f9f9f9.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </div>
 
 
